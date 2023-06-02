@@ -12,6 +12,6 @@ tags: [issue]
 /></a>
 
 
-[Javatpoint](https://tinyurl.com/yafxm5nz)
+[White to Play and Win](https://tinyurl.com/yafxm5nz)
 
 
