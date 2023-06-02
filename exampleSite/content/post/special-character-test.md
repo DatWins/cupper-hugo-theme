@@ -1,7 +1,7 @@
 ---
 title: "Special Character Test"
 date: 2019-09-10T20:26:08-05:00
-tags: [issue]
+tags: [Opening]
 ---
 <a href='https://www.apronus.com/chess/pgnviewer/?p=ARNBQKBNRPPPPPPPP________________________________pppppppprnbqkbnr'
  target='_blank' rel='noopener'><img
