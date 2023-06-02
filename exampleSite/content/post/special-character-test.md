@@ -11,8 +11,8 @@ tags: [Opening]
   src='https://chessdiagram.online/stagram.php?d=_RNBQKBNRPPPPPPPP________________________________pppppppprnbqkbnr&p=49&s=0&c=E0E0E0FFFFFF969696000000&r=FFFFFF&z=w'
 /></a>
 
-<iframe width=600 height=371 src="https://lichess.org/study/embed/EBJ4Dl6t/CLz8hRwH" frameborder=0></iframe>
-
 [White to Play and Win](https://tinyurl.com/yafxm5nz)
+
+{{< lichess-embed src="https://lichess.org/study/iS3Dp19A/jJqZwOa7" >}} [FEN: 4k3/8/B7/8/3p1p2/3P4/6P1/K7 w - - 0 1]
 
 
