@@ -4,7 +4,7 @@ subtitle = "siggemannen - luckybbad, 2008"
 date = 2023-06-07
 tags = ["game-analysis", "middlegames"]
 
-draft = false
+draft = true
 
 +++
 
