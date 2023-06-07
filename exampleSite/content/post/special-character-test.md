@@ -13,6 +13,6 @@ tags: [Opening]
 
 [White to Play and Win](https://tinyurl.com/yafxm5nz)
 
-{{< lichess-embed src="https://lichess.org/study/iS3Dp19A/jJqZwOa7" >}} [FEN: 4k3/8/B7/8/3p1p2/3P4/6P1/K7 w - - 0 1]
+{{< lichess-embed src="https://lichess.org/study/iS3Dp19A/jJqZwOa7" >}} 
 
 
