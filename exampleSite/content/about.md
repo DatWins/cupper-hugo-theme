@@ -1,16 +1,9 @@
 ---
-date: "2014-04-09"
+date: "2024-02-23"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+This is the summary of my training system. 
 
-It makes use of a variety of open source projects including:
+Emanuel Lasker: **You should keep in mind no names, nor numbers, nor isolated incidents, but only methods. The method is plastic. It is applicable in every situation.**
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
