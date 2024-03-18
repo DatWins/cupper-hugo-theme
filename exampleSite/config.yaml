@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://learning-manual.netlify.app/
 languageCode: en-us
 defaultContentLanguage: en
 title: Cupper
@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Lam Training System
+  description: notes and ideas on chess improvements
   homeMetaContent: 
   footer: 
   dateFormat: Jan 2, 2006
